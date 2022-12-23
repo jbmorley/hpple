@@ -32,7 +32,7 @@
 
 #import "TFHppleElement.h"
 
-@interface TFHpple : NSObject 
+@interface TFHpple : NSObject
 
 - (id) initWithData:(NSData *)theData encoding:(NSString *)encoding isXML:(BOOL)isDataXML;
 - (id) initWithData:(NSData *)theData isXML:(BOOL)isDataXML;

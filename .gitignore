@@ -23,3 +23,5 @@ DerivedData
 # Emacs
 *.h#
 
+# SwiftPM
+.build
